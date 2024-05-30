@@ -2,7 +2,7 @@
 [series]:/contents/series300.png
 [surer]:/contents/surer300.png
 [trust]:/contents/trust300.png
- ![series] *<strong><strong>Jing Wang, Songhe Feng*. Contrastive and View-Interaction Structure Learning for 
+ ![series]=300×300 *<strong><strong>Jing Wang, Songhe Feng*. Contrastive and View-Interaction Structure Learning for 
  
 &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  Multi-View Clustering. IJCAI, 2024.* 
 
