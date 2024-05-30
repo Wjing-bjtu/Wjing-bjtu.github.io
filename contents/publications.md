@@ -3,7 +3,7 @@
 <img src="/contents/series.png" width = 300 align="left" > *<strong><strong>Jing Wang, Songhe Feng*. Contrastive and View-Interaction Structure Learning for Multi-View Clustering. IJCAI, 2024.[[Paper]]
 <br/>
   <br/>  
-
+  <br/> 
 <img src="/contents/surer.png" width = 350 align="left" > *<strong><strong>Jing Wang, Songhe Feng*, Gengyu Lyu, Jiazheng Yuan. SURER: Structure-Adaptive Unified Graph Neural Network for Multi-View Clustering. AAAI, 2024. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29478)
  <br/>  
  <br/>  
