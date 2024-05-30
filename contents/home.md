@@ -17,7 +17,7 @@ I am currently a Ph.D. student in the  Department of [Computer Science at Beijin
 Multi-view Clustering, Machine Learning.
 
 
-[avatar]:/contents/news9.png
+[avatar]:/contents/news10.png
 
 #### ![avatar] Recent News
 <strong>[Apr. 2024]</strong> Our paper about multi-view clustering are accepted to [IJCAI 2024](https://ijcai24.org/)
