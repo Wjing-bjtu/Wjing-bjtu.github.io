@@ -10,4 +10,4 @@
 &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;  Graph Neural Network for Multi-View Clustering. AAAI, 2024.* [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29478)
 
 <img src="/contents/trust.png" width = 300 > *<strong><strong>Jing Wang, Songhe Feng*, Gengyu Lyu, Zhibin Gu. Triple-Granularity Contrastive Learning
-&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  for Deep Multi-View Clustering. ACM Multimedia, 2023. * [[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3611844)
+&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;  for Deep Multi-View Clustering. ACM Multimedia, 2023. * [[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3611844)
