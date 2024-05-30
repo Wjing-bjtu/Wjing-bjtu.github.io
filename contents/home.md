@@ -26,5 +26,5 @@ Multi-view Clustering, Machine Learning.
 
 <strong>[Feb. 2024]</strong> I have attended [AAAI 2024](https://aaai.org/)
 
-
+{% include_relative _includes/publications.md %}
 
