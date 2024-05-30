@@ -1,7 +1,7 @@
 
-[series]:(/contents/series300.png) 
-[surer]:/contents/surer300.png
-[trust]:/contents/trust300.png
+[series]:(/contents/series.png) 
+[surer]:/contents/surer.png
+[trust]:/contents/trust.png
 
 <img src="/contents/series300.png" width = 300 > *<strong><strong>Jing Wang, Songhe Feng*. Contrastive and View-Interaction Structure Learning for 
  
