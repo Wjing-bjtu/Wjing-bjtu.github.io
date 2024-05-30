@@ -1,5 +1,5 @@
 
-[series]:(/contents/series300.png width="300") 
+[series]:(/contents/series300.png, width="300") 
 
 [surer]:/contents/surer300.png
 [trust]:/contents/trust300.png
