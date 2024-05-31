@@ -6,7 +6,7 @@
 <br/>
 
   
-<img src="/contents/surer.png" width = 300 align="left" > *<strong><strong>Jing Wang, Songhe Feng*, Gengyu Lyu, Jiazheng Yuan. SURER: Structure-Adaptive Unified Graph Neural Network for Multi-View Clustering. AAAI, 2024. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29478)
+<img src="/contents/surer.png" width = 300 align="left" > *<strong><strong>Jing Wang, Songhe Feng*, Gengyu Lyu, Jiazheng Yuan. SURER: Structure-Adaptive Unified Graph Neural Network for Multi-View Clustering. AAAI, 2024. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29478)[[Code]]
  
  <br/>  
  <br/>
