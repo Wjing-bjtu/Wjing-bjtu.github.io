@@ -5,7 +5,7 @@ I am currently a Ph.D. student in the  Department of [Computer Science at Beijin
 
 #### Contact
 * Github: [Wjing-bjtu](https://github.com/Wjing-bjtu)
-* Email: jing_w[at] bjtu.edu.cn
+* Email: jing_w [at] bjtu.edu.cn
 * Google Scholar：[Jing Wang's Google Scholar](https://scholar.google.com/citations?user=iKdCRFwAAAAJ&hl=zh-CN&oi=sra)
 
 #### Education
